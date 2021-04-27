@@ -1,3 +1,5 @@
+**Due to Github's search restrictions on forked projects, this project has been cloned to https://github.com/chillywings/rctools.git and all further updates will be on that repository**
+
 rctools
 ======
 
